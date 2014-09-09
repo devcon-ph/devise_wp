@@ -57,6 +57,7 @@ p.pwrap span{font-size: 13px;}
 table.mech-tab tr td{text-align: left; font-size: 12px; border: 1px solid #cccccc; padding: 5px;}
 .mech-wrap{background:#ffffff; padding:80px 0px 10px 0px;}
 /*----------------------------------footer----------------------*/
+.facebook-like{padding:20px 0;}
 footer{position: relative; bottom: 0px; }
 .footer-wrap p, .footer-wrap a{color: #ffffff; font-size: 14px; font-weight: 300; text-align: center;}
 .footer-wrap{padding: 20px 0; background:#2C2E2F;}

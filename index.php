@@ -280,17 +280,15 @@
 				</div>
 			</div>
 			<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
-			<div class="container">
-        <div class="row text-center">
-          <div class="col-md-6 text-center">
-            <div class="embed-responsive">
-              <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fdevcondevise&amp;width&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=488047311326879" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:427px;" allowTransparency="true"></iframe>
-            </div>
-          </div>
-				</div>
-			</div>
 		</div>
 	</div><!-- /banner-home -->
+  <div class="container facebook-like">
+    <div class="row text-center">
+      <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
+        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fdevcondevise&amp;width&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=488047311326879" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:427px; width:100%" allowTransparency="true"></iframe>
+      </div>
+    </div>
+  </div>
 	<footer>
 		<div class="footer-wrap">
 			<div class="container">
