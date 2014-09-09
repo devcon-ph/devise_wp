@@ -52,7 +52,10 @@
 		})
   </script>
   <script type="text/javascript">
-	$(document).ready(function(){
+  $(document).ready(function(){
+      if (window.innerHeight > 500) {
+          $(".page-section").css("height", "" + window.innerHeight + "px");
+      }
 	    $("#Mynavbar").on('activate.bs.scrollspy', function () {
 
 	        // do something…
@@ -95,7 +98,7 @@
       </div>
     </div>	
 	<div class="spacer"></div>
-	<div id="home">
+	<div id="home" class="page-section">
 		<div class="banner-home">
 			<div class="container">
 				<div class="row">
@@ -123,7 +126,7 @@
 			</div>
 		</div>
 	</div><!-- /banner-home -->
-	<div id="about">
+	<div id="about" class="page-section">
 		<div class="spacer"></div>
 		<div class="header-wrap">
 				<h1>About</h1>
@@ -156,7 +159,7 @@
 		</div>
 		<div class="spacer"></div>
 	</div><!-- /banner-home -->
-	<div id="howToJoin">
+	<div id="howToJoin" class="page-section">
 		<div class="spacer"></div>
 		<div class="header-wrap">
 				<h1>How to Join</h1>
@@ -199,7 +202,7 @@
 		</div>
 		<div class="spacer"></div>
 	</div><!-- /banner-home -->
-	<div id="mechanics">
+	<div id="mechanics" class="page-section">
 		<div class="spacer"></div>
 		<div class="header-wrap">
 				<h1>Mechanics</h1>
@@ -258,7 +261,7 @@
 		</div>
 		<div class="spacer"></div>
 	</div><!-- /banner-home -->
-	<div id="sponsors">
+	<div id="sponsors" class="page-section">
 		<div class="spacer"></div>
 		<div class="header-wrap">
 				<h1>Brought To You By</h1>
