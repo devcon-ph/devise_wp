@@ -53,7 +53,7 @@
   </script>
   <script type="text/javascript">
   $(document).ready(function(){
-      if (window.innerHeight > 500) {
+      if (window.innerHeight > 500 && window.innerWidth > 1024) {
           $(".page-section").css("height", "" + window.innerHeight + "px");
           $(".wrapL").css("height", "" + (window.innerHeight - 80) + "px");
       }
