@@ -55,6 +55,7 @@
   $(document).ready(function(){
       if (window.innerHeight > 500) {
           $(".page-section").css("height", "" + window.innerHeight + "px");
+          $(".wrapL").css("height", "" + (window.innerHeight - 80) + "px");
       }
 	    $("#Mynavbar").on('activate.bs.scrollspy', function () {
 
