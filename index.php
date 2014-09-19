@@ -21,7 +21,7 @@
     <meta content="DevCon Devise" property="og:title" />
     <meta content="DevCon Devise is a National Competition that aims to challenge students in solving real world problems with mobile applications." property="og:description" />
     <meta content="http://devise.devcon.ph/" property="og:url" />
-    <meta content="http://devise.devcon.ph/img/opengraph.png" property="og:image" />
+    <meta content="<?php echo get_template_directory_uri(); ?>/img/opengraph.png" property="og:image" />
     <meta content="200" property="og:image:width" />
     <meta content="200" property="og:image:height" />
 
