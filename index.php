@@ -262,7 +262,7 @@
 		</div>
 		<div class="spacer"></div>
 	</div><!-- /banner-home -->
-	<div id="sponsors" class="page-section">
+	<div id="sponsors">
 		<div class="spacer"></div>
 		<div class="header-wrap">
 				<h1>Brought To You By</h1>
