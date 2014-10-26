@@ -56,6 +56,9 @@
       if (window.innerHeight > 500 && window.innerWidth > 1024) {
           $(".page-section").css("min-height", "" + window.innerHeight + "px");
           $(".wrapL").css("min-height", "" + (window.innerHeight - 80) + "px");
+      } else {
+          $(".page-section").css("min-height", "");
+          $(".wrapL").css("min-height", "");
       }
   }
   $(document).ready(function(){
@@ -199,7 +202,7 @@
 						<h5>3-Minute Video</h5>
 						<ul class="text-left">
 							<li>Part of the entry submission is a 3-minute video (maximum) that demonstrates the features of the application. </li>
-							<li>Video on the simulator is acceptable. </li>
+							<li>The video can use simulators for footage as long as it shows the actual app or prototype (i.e. not a mockup).</li>
 						</ul>
 					</div>
 				</div>
