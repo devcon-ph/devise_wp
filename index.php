@@ -53,7 +53,7 @@
   </script>
 <script type="text/javascript">
   function resizeHeight() {
-      if (window.innerHeight > 500 && window.innerWidth > 1024) {
+      if (window.innerHeight > 500 && window.innerWidth > 768) {
           $(".page-section").css("min-height", "" + window.innerHeight + "px");
           $(".wrapL").css("min-height", "" + (window.innerHeight - 80) + "px");
       } else {
