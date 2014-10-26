@@ -71,7 +71,7 @@
   </head>
 
   <body data-spy="scroll" data-target="#Mynavbar">
-	<div class="navbar navbar-default navbar-fixed-top" id="Mynavbar">
+	<div class="navbar navbar-default navbar-fixed-top hidden-xs" id="Mynavbar">
       <div class="container">
       	<div class="row">
 		    <div class="col-md-3 col-sm-2">
@@ -190,6 +190,7 @@
 						<h5>Platform and Tools</h5>
 						<ul class="text-left">
 							<li>Mobile platforms accepted are iOS, Android, BlackBerry, Windows Phone and Firefox OS.</li>
+							<li>Applications on custom mobile devices (e.g. Raspberry Pi or Arduino based) are also accepted.</li>
 						</ul>
 					</div>
 					<div class="col-md-4">
