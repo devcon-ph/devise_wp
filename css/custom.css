@@ -39,7 +39,6 @@
 	
 }
 @media (max-width:768px){
-  .spacer{height:0px;}
 	.navbar-default{height:auto;}
 	.navbar-nav li a{padding:10px}
 	.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{padding:10px; text-decoration:none; background:#ccc; color:#ffffff}

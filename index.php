@@ -231,9 +231,9 @@
 						<img src="<?php echo get_template_directory_uri(); ?>/img/mech-img2.png" class="img-responsive" />
 						<hr>
 						<h5>Prizes</h5>
-						<p>1st Prize – PHP 50,000 + freebies from sponsors</p>
-						<p>2nd Prize – PHP 30,000 + freebies from sponsors</p>
-						<p>3rd Prize – PHP 20,000+ freebies from sponsors</p>						
+						<p>1st Prize – PHP 50,000</p>
+						<p>2nd Prize – PHP 30,000</p>
+						<p>3rd Prize – PHP 20,000</p>						
 					</div>
 					<div class="col-md-4">
 						<img src="<?php echo get_template_directory_uri(); ?>/img/mech-img3.png" class="img-responsive" />
