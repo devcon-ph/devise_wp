@@ -51,12 +51,16 @@
 		  var $spy = $(this).scrollspy('refresh')
 		})
   </script>
-  <script type="text/javascript">
-  $(document).ready(function(){
+<script type="text/javascript">
+  function resizeHeight() {
       if (window.innerHeight > 500 && window.innerWidth > 1024) {
-          $(".page-section").css("height", "" + window.innerHeight + "px");
-          $(".wrapL").css("height", "" + (window.innerHeight - 80) + "px");
+          $(".page-section").css("min-height", "" + window.innerHeight + "px");
+          $(".wrapL").css("min-height", "" + (window.innerHeight - 80) + "px");
       }
+  }
+  $(document).ready(function(){
+      resizeHeight();
+      $(window).resize(resizeHeight);
 	    $("#Mynavbar").on('activate.bs.scrollspy', function () {
 
 	        // do something…
@@ -184,7 +188,7 @@
 						<img src="<?php echo get_template_directory_uri(); ?>/img/how-img2.png" class="img-responsive" />
 						<hr>
 						<h5>Platform and Tools</h5>
-						<ul>
+						<ul class="text-left">
 							<li>Mobile platforms accepted are iOS, Android, BlackBerry, Windows Phone and Firefox OS.</li>
 						</ul>
 					</div>
