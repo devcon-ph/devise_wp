@@ -23,7 +23,8 @@ hr{border-color:transparent; margin:15px 0;}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle {background: #2C2E2F}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{background: #00AECB;}
 
-#home, #about, #howToJoin, #mechanics, #sponsors{height: 500px;}
+#home, #about, #howToJoin, #sponsors{height: 500px;}
+#mechanics{height:780px;}
 
 /*----------------------------------containerH----------------------*/
 .spacer{height:80px;}
