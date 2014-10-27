@@ -269,7 +269,52 @@
 			<hr>
 		</div>
 		<div class="spacer"></div>
-	</div><!-- /banner-home -->
+  </div><!-- /banner-home -->
+  <div id="faq" class="page-section" style="min-height: 1351px;">
+		<div class="spacer"></div>
+		<div class="header-wrap">
+				<h1>Frequently Asked Questions</h1>
+			</div>
+		<div class="banner">
+			<div class="container">
+				<div class="row text-left">
+          <div class="col-md-12">
+            <h5>1. Who can join this competition?</h5>
+            <p>Undergraduate students, both those of degree and non-degree courses, who are enrolled in a school in the Philippines any time within the contest period (June 14 - December 13) are allowed to join the contest.</p>
+            <p>This means that people who have graduated or not currently enrolled in a course are not allowed to join the contest. On the other hand, this also allows for entries from High School and even Grade School students as long as they can prove that they are the ones who have coded most of the app.</p>
+            <h5>2. What types of apps are allowed?</h5>
+            <p>Any type of mobile applications are allowed as long as it fits within the theme. Here are some examples:</p>
+            <ul>
+              <li>An educational game for kids that teaches them what to do when disaster strikes.</li>
+              <li>A mobile app that uses geolocation to connect you to the closest and most relevant rescue services (e.g. fire department for fire, police department for crime) in a few taps.</li>
+              <li>Cheap custom designed devices made from off-the-shelf parts that can be distributed to remote locations which can provide early warning for certain calamities for residents.</li>
+            </ul>
+            <p>You can also send an email to <a href="mailto:mailbox@devcon.ph">mailbox@devcon.ph</a> if you are unsure if your app is suited for this competition.</p>
+
+            <h5>3. We already have an existing mobile app (e.g. thesis, side project), can we submit it as our entry?</h5>
+
+            <p>Yes.</p>
+
+            <h5>4. Is there any advantage to submitting our entry early?</h5>
+
+            <p>Yes! <strong>We encourage participants to submit prototypes as early as possible.</strong> Doing so will allow us to tell you how you can improve the app while still giving you time to act upon those suggestions.</p>
+
+            <p>Submitting entries is not a one-time deal: <em>you can re-submit your entry as many times as you like</em>, with the last submission containing the complete working application.</p>
+
+            <h5>5. Can we pivot and change our app midway into the competition?</h5>
+
+            <p>Yes. However, the new version of the app will again be subject to pre-qualification.</p>
+
+            <h5>6. Our team is not located near Metro Manila. Is travel and accommodation for the finalists covered?</h5>
+
+            <p>We will cover the travel and accommodation for 3 individuals per team, but we may increase this to 5 members later.</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+		</div>
+		<div class="spacer"></div>
+	</div>
 	<div id="sponsors">
 		<div class="spacer"></div>
 		<div class="header-wrap">
