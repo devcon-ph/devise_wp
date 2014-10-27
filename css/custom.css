@@ -71,7 +71,7 @@
 	.navbar-default .navbar-toggle{display: none;}
 	.wrapR p a.btnW{margin-bottom: 20px;}
 	.navbar-nav{display: none;}
-	#home, #about, #howToJoin, #mechanics, #sponsors{height: auto;}
+	#home, #about, #howToJoin, #mechanics, #sponsors, #faq{height: auto;}
 }
 @media (min-width: 768px) and (max-width: 1199px){
 	.wrapR img.dlogo{position:static; display:inline; }
