@@ -60,6 +60,8 @@ p.pwrap span{font-size: 13px;}
 .mech-wrap .mech-p p{text-align: center; font-size: 120%; font-weight: bold}
 table.mech-tab tr td{text-align: left; font-size: 12px; border: 1px solid #cccccc; padding: 5px;}
 .mech-wrap{background:#ffffff; padding:80px 0px 10px 0px;}
+/*----------------------------------faq----------------------*/
+p.question{font-size: 120%; font-weight:bold;}
 /*----------------------------------footer----------------------*/
 .facebook-like{padding:200px 0 20px;}
 footer{position: relative; bottom: 0px; }
